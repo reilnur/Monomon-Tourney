@@ -11,33 +11,33 @@ Must be live and have VOD. Seeds may begin on October 11th (Please note all date
 Cost of entry: Gift 1 sub to BigMurph619's channel with the message "I'm in!" This will be added to the awards pool distributed by Murph. Please try to do this in a timely manner (i.e. prior to the Oct. 11th start date). You may still participate in the tournament without gifting a sub but you will not be eligible for the award pool.
 
 ## Point Breakdown
-Your first 5 runs past Brock will be added together to get your cumulative score. PLEASE: Ensure you are updating in my discord's "Monomon Tourney Points" channel.
+Your first 5 runs past Brock will be added together to get your cumulative score. PLEASE: Ensure you are updating in my discord's "Monomon Tourney Points" channel. All markers are worth 1 point unless denoted by ().
 |           Points          | 
 | :-----------------------: | 
 | Brock                     | 
 | Clear Pre-Mt. Moon        | 
 | Exit Mt. Moon             | 
-| +1 full clear             |
+| Full clear Mt. Moon       |
 | Bridge Rival              | 
 | Rescue Bill               |
 | Misty                     | 
 | Clear Pre-Boat Routes     |
 | Boat Rival                |
-| +1 Full Clear Boat        |
+| Full Clear Boat           |
 | Lt. Surge                 |
 | Rock Tunnel               |
-| +1 Full Clear Tunnel      |
+| Full Clear Tunnel         |
 | Gio Hideout               |
-| +1 Full Clear Hideout     |
+| Full Clear Hideout        |
 | Tower Rival               |
 | Rescue Fuji               |
-| +1 Full Clear Tower       |
+| Full Clear Tower          |
 | Erika                     |
 | Enter Safari Zone         |
 | Koga                      |
 | Dojo                      |
 | Silph Gio                 |
-| +2 Full Clear Silph       |
+| Full Clear Silph (2)      |
 | Sabrina                   |
 | Blaine                    |
 | Gio                       |
