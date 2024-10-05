@@ -15,35 +15,40 @@ Your first 5 runs past Brock will be added together to get your cumulative score
 |           Points          | 
 | :-----------------------: | 
 | Brock                     | 
-| Mt. Moon                  | 
+| Clear Pre-Mt. Moon        | 
+| Exit Mt. Moon             | 
+| +1 full clear             |
 | Bridge Rival              | 
+| Rescue Bill               |
 | Misty                     | 
+| Clear Pre-Boat Routes     |
 | Boat Rival                |
-| Surge                     |
+| +1 Full Clear Boat        |
+| Lt. Surge                 |
 | Rock Tunnel               |
-| Tower Rival               |
+| +1 Full Clear Tunnel      |
 | Gio Hideout               |
+| +1 Full Clear Hideout     |
+| Tower Rival               |
 | Rescue Fuji               |
+| +1 Full Clear Tower       |
 | Erika                     |
-| Safari                    |
-| Level up pivot twice      |
+| Enter Safari Zone         |
 | Koga                      |
 | Dojo                      |
-| Silph Rival               |
 | Silph Gio                 |
+| +2 Full Clear Silph       |
 | Sabrina                   |
-| Walk out mansion with key |
 | Blaine                    |
-| Sevii quest               |
 | Gio                       |
-| Rival                     |
+| VR Rival                  |
 | Lorelei                   |
 | Bruno                     |
-| Agatha                    |
-| Lance                     |
-| Champ                     |
+| Agatha (2)                |
+| Lance (2)                 |
+| Champ (3)                 |
 
-     28 Points available 
+     38 Points available 
 
 
 
