@@ -48,7 +48,7 @@ Your first 5 runs past Brock will be added together to get your cumulative score
 | Lance (2)                 |
 | Champ (3)                 |
 
-     38 Points available 
+     38 Points available per run
 
 
 
