@@ -1,6 +1,6 @@
 # Monomon Tourney
 
-### [Murphmon](#Murphmon) | [Tourney Details](#Tourney) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards)
+### [Monomon](#Monomon) | [Tourney Details](#Tourney) | [Tourney Points](#Point-Breakdown) | [Tourney Awards](#Awards)
 
 ## Tourney
 
@@ -58,6 +58,6 @@ If anyone wins (28 Points), I'll throw an additional 5 gifted subs on top of you
 Many Runs may end up with ties, please note how many trainers you've cleared as a tie breaker. The tracker has this feature if you use streamerbot, etc.!
 
 
-## Murphmon
+## Monomon
 
-[Link to the murphmon rules!](https://github.com/reilnur/MurphmonRules/tree/main)
+[Link to the Monomon rules!](https://github.com/BigMurph619/Monomon)
