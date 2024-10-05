@@ -54,13 +54,7 @@ Your first 5 runs past Brock will be added together to get your cumulative score
 
 ## Awards
 
-All funded by me (BigMurph619)
-1st place 15 gifted subs, 
-2nd 10 gifted, 
-3rd 5 gifted all 
-If anyone wins (28 Points), I'll throw an additional 5 gifted subs on top of your placement!
-
-Many Runs may end up with ties, please note how many trainers you've cleared as a tie breaker. The tracker has this feature if you use streamerbot, etc.!
+Awards will be given to 1st, 2nd, and 3rd place finishers. The top 3 will be recognized in the Murphverse and will earn badges in the MurphMob discord. Additionally, there will be a gifted sub "Pool". Entrants are required to gift 1 sub to BigMurph619's channel to enter. Each gifted sub will add to the "Pool" to be distributed out the Top 3 finishers. Example: if there are 20 entrants, there will be 20 gifted subs in the "Pool". Distributions will be 1st: 50%, 2nd: 30%, 3rd: 20%. Example: Pool of 20... 1st: 10, 2nd: 6, 3rd: 4.
 
 
 ## Monomon
