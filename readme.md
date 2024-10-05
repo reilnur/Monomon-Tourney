@@ -4,11 +4,11 @@
 
 ## Tourney
 
-Cutoff is 300 Attempts or Sep 8th 11:59 P.M. PST, whichever comes first
-Start August 9th end by Sep 8th
-Must be live and have VOD
+This tournament is scored by cumulative points. Your first 5 runs past Brock will be added together to get your cumulative score.
+Additional cutoffs will be 300 total seeds and/or October 30th
+Must be live and have VOD. Seeds may begin on October 11th (Please note all dates refer to PST USA Midnight)
 
-Cost of entry: Say nice things about the challenge, refer folks to my channel and the other creators participating. This tournament is meant to be fun and a way for me to challenge myself as a creator!
+Cost of entry: Gift 1 sub to BigMurph619's channel with the message "I'm in!" This will be added to the awards pool distributed by Murph.
 
 ## Point Breakdown
 Best individual points run (Only your PB run counts): all worth 1 point
