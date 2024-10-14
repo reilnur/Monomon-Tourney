@@ -27,12 +27,12 @@ Your first 5 runs past Brock will be added together to get your cumulative score
 | Lt. Surge                 |
 | Rock Tunnel               |
 | Full Clear Tunnel         |
-| Gio Hideout               |
+| Hideout Gio               |
 | Full Clear Hideout        |
+| Erika                     |
 | Tower Rival               |
 | Rescue Fuji               |
 | Full Clear Tower          |
-| Erika                     |
 | Enter Safari Zone         |
 | Koga                      |
 | Dojo                      |
